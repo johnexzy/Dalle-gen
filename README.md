@@ -1,8 +1,6 @@
 
 This bot uses OpenAI's NodeJS SDK, and v14 of discord.js, and is written in Typescript.
-
-
-
+ 
 # Features include:
 
 - draw command to generate images (1 to 9) using the generations endpoint
